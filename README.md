@@ -12,4 +12,4 @@
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shrlgns1107)](https://solved.ac/{shrlgns1107})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shrlgns1107)](https://solved.ac/shrlgns1107)
