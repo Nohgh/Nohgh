@@ -15,6 +15,23 @@
 감사합니다.
 👍🌟😊
 
+---
+### Skill Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,styledcomponents,sass,vite,vscode,githubactions" />
+  </a>
+</p>
 
+---
+### BOJ
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shrlgns1107)](https://solved.ac/shrlgns1107)
+
+---
+### Awards
+
+- 🥉 2023.08 오픈소스 SW 해커톤 - 동상
+- 🥇 2023.11 Hallym SW Week 씨애랑 동아리 전시회 - 금상(1위)
+- 🥉 2023.12 Hi-Five 경진대회 - 우수상
+- 🥇 2024.07 오픈소스 SW 해커톤 - 최우수상
