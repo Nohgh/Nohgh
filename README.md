@@ -35,3 +35,6 @@
 - 🥇 2023.11 Hallym SW Week 씨애랑 동아리 전시회 - 금상(1위)
 - 🥉 2023.12 Hi-Five 경진대회 - 우수상
 - 🥇 2024.07 오픈소스 SW 해커톤 - 최우수상
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D5D5D5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
