@@ -28,6 +28,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shrlgns1107)](https://solved.ac/shrlgns1107)
 
+
 ---
 ### Awards
 
@@ -37,4 +38,9 @@
 - 🥇 2024.07 오픈소스 SW 해커톤 - 최우수상
 - 🥇 2024.11 Hallym SW Week 씨애랑 동아리 전시회 - 금상(1위)
 - 🥉 2024.11 Hallym SW Week 아이디어 해커톤 - 동상
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nohgh&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
+</div>
 
