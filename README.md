@@ -19,7 +19,7 @@
 ### Skill Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,styledcomponents,sass,vite,vscode,githubactions,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,styledcomponents,sass,vite,vscode,githubactions,nodejs,python" />
   </a>
 </p>
 
