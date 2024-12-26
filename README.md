@@ -27,8 +27,7 @@
 ### BOJ
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shrlgns1107)](https://solved.ac/shrlgns1107)
-
-
+<img src="http://mazandi.herokuapp.com/api?handle=shrlgns1107&theme=dark"/>
 ---
 ### Awards
 
