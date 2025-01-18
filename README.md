@@ -30,5 +30,5 @@ console.log("안녕하세요. 프론트엔드 개발자 노기훈입니다.");
 
  
 <details>
-  <summary><strong>A or above, Web-related courses</strong></summary>
+  <summary><h3>A or above, Web-related courses</h3></summary>
 웹 프로그래밍, 웹서버 구축, 클라우드 컴퓨팅, 오픈소스SW의 이해, 정보보호론, 자료구조, 알고리즘, 운영체제</details>
