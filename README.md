@@ -28,6 +28,9 @@ console.log("안녕하세요. 프론트엔드 개발자 노기훈입니다.");
 - 🥉 2023.08 오픈소스 SW 해커톤 - 동상
 <br></br>
 
+### Blog
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kiki01111&slug=에브리타임에서-스크랩-200개를-받다)](https://velog.io/@kiki01111/%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84%EC%97%90%EC%84%9C-%EC%8A%A4%ED%81%AC%EB%9E%A9-200%EA%B0%9C%EB%A5%BC-%EB%B0%9B%EB%8B%A4)
+
 ### BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shrlgns1107)](https://solved.ac/shrlgns1107)
 
