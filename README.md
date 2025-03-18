@@ -1,7 +1,6 @@
 ```javascript
 console.log("안녕하세요. 프론트엔드 개발자 노기훈입니다.");
 ```
-
 ### Moto
 
 "한 가지를 대하는 태도가 모든 일을 대하는 태도이다."
@@ -29,9 +28,6 @@ console.log("안녕하세요. 프론트엔드 개발자 노기훈입니다.");
 - 🥉 2023.08 오픈소스 SW 해커톤 - 동상
 <br></br>
 
-
-  
-<br></br>
 ### BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shrlgns1107)](https://solved.ac/shrlgns1107)
 
