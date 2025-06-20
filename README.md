@@ -9,7 +9,7 @@ console.log("안녕하세요. 프론트엔드 개발자 노기훈입니다.");
 ```
 
 ### Activities
-- [2025 | 항해 플러스 프론트엔드 5기 수료](https://www.linkedin.com/in/nohgihoon1107/overlay/1749272750912/single-media-viewer/?profileId=ACoAAEXUskUBhJXXjrxlq8W3CFunZ8P3kVEMJHU)
+- [2025 | 항해 플러스 프론트엔드 5기 수료](https://gihoon2025.notion.site/)
 - [2025 | 구름톤 유니브 한림대학교 대표](https://9oormthon.university/)
 <br></br>
 
