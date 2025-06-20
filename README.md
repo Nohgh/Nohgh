@@ -1,7 +1,8 @@
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
 </a>
-<br/>
+<br></br>
+
 
 ```javascript
 console.log("안녕하세요. 프론트엔드 개발자 노기훈입니다.");
